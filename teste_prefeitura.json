@@ -1,0 +1,132 @@
+[
+    {
+        "rodada": 1,
+        "data_hora": "2025-12-11 08:57:51",
+        "servidor": "98.84.132.182",
+        "ambiente": {
+            "wifi_sinal_dbm": -41,
+            "wifi_link_negociado": 866.7,
+            "tempo_dns_ms": 7.74
+        },
+        "rede": {
+            "ping_ms": 128.737,
+            "ttl": 45,
+            "download": {
+                "mbps": 188.93,
+                "retransmits": 4416,
+                "jitter": 0.0,
+                "erro": false
+            },
+            "upload": {
+                "mbps": 89.76,
+                "retransmits": 6273,
+                "jitter": 113.505,
+                "erro": false
+            }
+        }
+    },
+    {
+        "rodada": 2,
+        "data_hora": "2025-12-11 08:58:21",
+        "servidor": "98.84.132.182",
+        "ambiente": {
+            "wifi_sinal_dbm": -41,
+            "wifi_link_negociado": 780.0,
+            "tempo_dns_ms": 0.34
+        },
+        "rede": {
+            "ping_ms": 153.042,
+            "ttl": 45,
+            "download": {
+                "mbps": 189.77,
+                "retransmits": 4858,
+                "jitter": 0.0,
+                "erro": false
+            },
+            "upload": {
+                "mbps": 87.94,
+                "retransmits": 11148,
+                "jitter": 133.617,
+                "erro": false
+            }
+        }
+    },
+    {
+        "rodada": 3,
+        "data_hora": "2025-12-11 08:58:51",
+        "servidor": "98.84.132.182",
+        "ambiente": {
+            "wifi_sinal_dbm": -41,
+            "wifi_link_negociado": 650.0,
+            "tempo_dns_ms": 0.39
+        },
+        "rede": {
+            "ping_ms": 140.38,
+            "ttl": 45,
+            "download": {
+                "mbps": 163.16,
+                "retransmits": 3313,
+                "jitter": 0.0,
+                "erro": false
+            },
+            "upload": {
+                "mbps": 86.92,
+                "retransmits": 6549,
+                "jitter": 121.119,
+                "erro": false
+            }
+        }
+    },
+    {
+        "rodada": 4,
+        "data_hora": "2025-12-11 08:59:22",
+        "servidor": "98.84.132.182",
+        "ambiente": {
+            "wifi_sinal_dbm": -41,
+            "wifi_link_negociado": 780.0,
+            "tempo_dns_ms": 0.41
+        },
+        "rede": {
+            "ping_ms": 135.999,
+            "ttl": 45,
+            "download": {
+                "mbps": 166.18,
+                "retransmits": 4962,
+                "jitter": 0.0,
+                "erro": false
+            },
+            "upload": {
+                "mbps": 73.49,
+                "retransmits": 2507,
+                "jitter": 321.214,
+                "erro": false
+            }
+        }
+    },
+    {
+        "rodada": 5,
+        "data_hora": "2025-12-11 08:59:52",
+        "servidor": "98.84.132.182",
+        "ambiente": {
+            "wifi_sinal_dbm": -42,
+            "wifi_link_negociado": 866.7,
+            "tempo_dns_ms": 0.3
+        },
+        "rede": {
+            "ping_ms": 109.184,
+            "ttl": 45,
+            "download": {
+                "mbps": 122.16,
+                "retransmits": 705,
+                "jitter": 0.0,
+                "erro": false
+            },
+            "upload": {
+                "mbps": 86.55,
+                "retransmits": 4477,
+                "jitter": 123.559,
+                "erro": false
+            }
+        }
+    }
+]
